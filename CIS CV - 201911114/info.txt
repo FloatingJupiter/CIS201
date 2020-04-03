@@ -1,0 +1,5 @@
+This CV Page Was created using html + css + bootstrab + jquery 
+For the time cosuming during the last class i've used some already made scripts for bootstrap from github since i thought i have to upload it during class
+
+Abdulaziz Albassam,
+201911114.
